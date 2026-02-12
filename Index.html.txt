@@ -172,7 +172,7 @@
 
 
     <!-- CAMBIA EL LINK DE WHATSAPP -->
-    <a href="https://wa.me/52XXXXXXXXXX?text=Hola%20quiero%20confirmar%20mi%20asistencia%20al%20evento%20del%2024%20de%20enero">
+    <a href="https://wa.me/522214282564?text=Hola%20quiero%20confirmar%20mi%20asistencia%20al%20evento%20del%2024%20de%20enero">
       📲 QUIERO CONFIRMAR MI ASISTENCIA
     </a>
   </div>
@@ -187,4 +187,5 @@
 
 
 </body>
+
 </html>
